@@ -23,6 +23,6 @@ The maximum accuracy was attained using CountVectorizer with SVM (81%).<br>
 TextBlob package was used to determine the polarity and subjectivity scores. These were used for creating insightful visualizations.<br>
 
 # References<br>
-- GetOldTweets3: https://github.com/marquisvictor/Optimized-Modified-GetOldTweets3-OMGOT
+- Optimized and Modified GetOldTweets3: https://github.com/marquisvictor/Optimized-Modified-GetOldTweets3-OMGOT
 - VADER Sentiment Analyzer: https://github.com/cjhutto/vaderSentiment
 - TextBlob: https://textblob.readthedocs.io/en/dev/
