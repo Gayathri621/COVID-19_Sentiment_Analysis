@@ -5,7 +5,7 @@ COVID-19 has become the talk of the town. With increasing number of case and loc
 # Data collection
 Tweet data was collected using Optimized and Modified version of GetOldTweets3. GetOldTweets3 is a Python package that can be used to scrape historical data from Twitter.This package overcomes the limitations posed by the Twitter API<br>
 
-*python GetOldTweets3.py --querysearch "#IndiaFightsCorona" --lang en --maxtweets 1000*<br>
+*python GetOldTweets3.py --querysearch "#IndiaFightsCorona" --lang en -since 2020-03-23 --until 2020-04-01  --maxtweets 1000*<br>
 
 The above command was used to obtain tweets from the API.Trending hashtags in India were used in the querysearch to keep it target specific.<br>
 
